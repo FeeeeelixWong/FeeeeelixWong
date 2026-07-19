@@ -14,6 +14,7 @@ The principle is simple: a model may explain an outcome, but it must not be the 
 
 ## Selected Work
 
+- [Agent Trust Stack Demo](https://github.com/FeeeeelixWong/agent-trust-stack-demo) - an interactive, end-to-end demonstration of capability audit, payment authority, and hash-linked action evidence.
 - [AgentPay Firewall](https://github.com/FeeeeelixWong/agentpay-firewall) - an x402 payment-rail reference implementation for agent policy enforcement.
 - [ProofOdds](https://github.com/FeeeeelixWong/proofodds) - deterministic, evidence-backed resolution receipts for prediction markets.
 - [Meme Scanner](https://github.com/FeeeeelixWong/meme-scanner) - a Solana token-risk observer with explicit safety gates and a local dashboard.
