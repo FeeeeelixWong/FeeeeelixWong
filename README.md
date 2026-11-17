@@ -43,8 +43,4 @@ Composable tools, reproducible builds, secure integrations, and documentation th
 
 **Engineering:** TypeScript, React, Node.js, Python, Rust, Solana, EVM, x402, Docker, and GitHub Actions
 
-## Connect
 
-I am open to conversations about AI-native products, payments, wallets, and Web3 infrastructure.
-
-[X / Twitter](https://x.com/jiwaiwaiji)
